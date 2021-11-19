@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Angel Chavez portfolio](https://github.com/angel-chavez-theceshop).
