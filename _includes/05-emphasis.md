@@ -1,3 +1,3 @@
-*A lsit of skills. _Italicized skills_*
+*A list of skills. _Italicized skills_*
 
 _Strictly italicized phrase._
